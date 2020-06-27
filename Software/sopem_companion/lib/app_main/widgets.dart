@@ -2,6 +2,7 @@
 // Use of this source code is governed by the GPL 3.0 license that can be
 // found in the LICENSE file.
 
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -40,9 +41,12 @@ class SoPEMAppBar extends PreferredSize {
         height: preferredSize.height,
         child: SafeArea(
           child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: <Widget>[
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
                   Text(
                     "SoPEM",
@@ -64,6 +68,13 @@ class SoPEMAppBar extends PreferredSize {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(100),
                   color: backgroundState,
+                  boxShadow: [
+                    BoxShadow(
+                      color: backgroundState.withOpacity(0.2),
+                      blurRadius: 20,
+                      spreadRadius: 10
+                    )
+                  ]
                 ),
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),
