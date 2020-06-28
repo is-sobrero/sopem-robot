@@ -13,7 +13,7 @@
 # Tabella dei contenuti
 - [Introduzione](#introduzione)
 - [Filosofia Open Source in ogni aspetto](#filosofia-open-source-in-ogni-aspetto)
-- [README dei singoli componenti](#readme-dei-singoli-componenti)
+- [Singoli componenti](#singoli-componenti)
 - [Licenza](#licenza)
   - [Autori / Copyright](#autori--copyright)
   - [Dettagli licenza](#dettagli-licenza)
