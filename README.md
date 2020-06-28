@@ -23,7 +23,9 @@ SoPEM è un robot di tipologia rover studiato appositamente per le finali delle 
 Sfruttando materiali di riciclo, sono stati costruiti 3 robot, dall'aspetto diverso ma tutti e tre volti allo stesso scopo: monitorare i valori di PM10 delle città in modo autonomo con un sensore autocostruito con materiali di riciclo (Un LED infrarosso ricavato da un telecomando e un fotodiodo da un vecchio decoder).
 
 In complemento al robot, è stata sviluppata una applicazione che permette di impostare il percorso da far eseguire al robot e per ottenere i valori di PM10 in tempo reale. 
-L'applicazione, sviluppata tramite il framework Flutter 
+L'applicazione, sviluppata tramite il framework Flutter, è compatibile con la maggior parte delle piattaforme software attuali: Android, iOS, Web, macOS, Windows e Linux.
+
+Non avendo a disposizione uno strumento di calibrazione professionale, per ottenere valori affidabili è stato creato un modello di machine learning che, addestrato con i dati del sensore e delle stazioni di rilevamento dell’ARPA, è in grado di fornire dati affidabili per il 71%.
 
 # Filosofia Open Source in ogni aspetto
 Il robot, oltre ad essere completamente Open Source, è anche sviluppato con strumenti Open Source: da Micropython a Flutter, da KiCad ad Arduino, tutti questi strumenti sono completamente Open e supportati dalla community FOSS e OSHW.
