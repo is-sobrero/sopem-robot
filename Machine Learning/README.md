@@ -37,7 +37,7 @@ Una volta eseguito lo script, esso restituirà in console un risultato simile al
 
     Accuratezza modello: 72.73% 
     Pendenza retta (m): -0.28 
-    Pendenza retta (q): 19.45 
+    Termine noto (q): 19.45 
     Esempio di oggetto per il file config.json: 
     { 
       "sensor": { 
