@@ -1,6 +1,6 @@
 <h1 align="center">SoPEM Robot</h1>
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+      <a href="https://www.youtube.com/watch?v=lT5buDZkqcU&t">
      <img 
       src="https://img.youtube.com/vi/lT5buDZkqcU/0.jpg" 
       alt="Copertina video" 
