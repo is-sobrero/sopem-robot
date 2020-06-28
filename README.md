@@ -6,7 +6,7 @@
       alt="Copertina video" 
       style="width:100%;">
       </a><br>
-      <i>Clicca la copertina per guardare il video di presentazione</i>
+      <i>Clicca la copertina per guardare il video di presentazione</i><br><br><br>
       <img widht="205" height="60" src="https://i0.wp.com/www.olimpiadirobotica.it/wp-content/uploads/2019/01/cropped-Tavola-disegno-1-copia-3_png.png?w=413&ssl=1">
 </div>
 
