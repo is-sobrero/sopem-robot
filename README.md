@@ -1,7 +1,13 @@
 <h1 align="center">SoPEM Robot</h1>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lT5buDZkqcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br>
-<img widht="205" height="60" src="https://i0.wp.com/www.olimpiadirobotica.it/wp-content/uploads/2019/01/cropped-Tavola-disegno-1-copia-3_png.png?w=413&ssl=1">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/lT5buDZkqcU/0.jpg" 
+      alt="Copertina video" 
+      style="width:100%;">
+      </a><br>
+      <i>Clicca la copertina per guardare il video di presentazione</i>
+      <img widht="205" height="60" src="https://i0.wp.com/www.olimpiadirobotica.it/wp-content/uploads/2019/01/cropped-Tavola-disegno-1-copia-3_png.png?w=413&ssl=1">
 </div>
 
 # Tabella dei contenuti
