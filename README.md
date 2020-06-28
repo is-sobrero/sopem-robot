@@ -29,10 +29,10 @@ L'applicazione, sviluppata tramite il framework Flutter
 Il robot, oltre ad essere completamente Open Source, è anche sviluppato con strumenti Open Source: da Micropython a Flutter, da KiCad ad Arduino, tutti questi strumenti sono completamente Open e supportati dalla community FOSS e OSHW.
 
 # Singoli componenti
-[Motor Controller](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Motor%20Controller)
-[SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
-[SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
-[Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
+- [Motor Controller](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Motor%20Controller)
+- [Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
+- [SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
+- [SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
 
 # Licenza
 ## Autori / Copyright
