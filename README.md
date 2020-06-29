@@ -1,13 +1,19 @@
 <h1 align="center">SoPEM Robot</h1>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lT5buDZkqcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><br>
-<img widht="205" height="60" src="https://i0.wp.com/www.olimpiadirobotica.it/wp-content/uploads/2019/01/cropped-Tavola-disegno-1-copia-3_png.png?w=413&ssl=1">
+      <a href="https://www.youtube.com/watch?v=lT5buDZkqcU&t">
+     <img 
+      src="https://img.youtube.com/vi/lT5buDZkqcU/0.jpg" 
+      alt="Copertina video" 
+      style="width:100%;">
+      </a><br>
+      <i>Clicca la copertina per guardare il video di presentazione</i><br><br><br>
+      <img widht="205" height="60" src="https://i0.wp.com/www.olimpiadirobotica.it/wp-content/uploads/2019/01/cropped-Tavola-disegno-1-copia-3_png.png?w=413&ssl=1">
 </div>
 
 # Tabella dei contenuti
 - [Introduzione](#introduzione)
 - [Filosofia Open Source in ogni aspetto](#filosofia-open-source-in-ogni-aspetto)
-- [README dei singoli componenti](#readme-dei-singoli-componenti)
+- [Singoli componenti](#singoli-componenti)
 - [Licenza](#licenza)
   - [Autori / Copyright](#autori--copyright)
   - [Dettagli licenza](#dettagli-licenza)
@@ -17,7 +23,9 @@ SoPEM è un robot di tipologia rover studiato appositamente per le finali delle 
 Sfruttando materiali di riciclo, sono stati costruiti 3 robot, dall'aspetto diverso ma tutti e tre volti allo stesso scopo: monitorare i valori di PM10 delle città in modo autonomo con un sensore autocostruito con materiali di riciclo (Un LED infrarosso ricavato da un telecomando e un fotodiodo da un vecchio decoder).
 
 In complemento al robot, è stata sviluppata una applicazione che permette di impostare il percorso da far eseguire al robot e per ottenere i valori di PM10 in tempo reale. 
-L'applicazione, sviluppata tramite il framework Flutter 
+L'applicazione, sviluppata tramite il framework Flutter, è compatibile con la maggior parte delle piattaforme software attuali: Android, iOS, Web, macOS, Windows e Linux.
+
+Non avendo a disposizione uno strumento di calibrazione professionale, per ottenere valori affidabili è stato creato un modello di machine learning che, addestrato con i dati del sensore e delle stazioni di rilevamento dell’ARPA, è in grado di fornire dati affidabili per il 71%.
 
 # Filosofia Open Source in ogni aspetto
 Il robot, oltre ad essere completamente Open Source, è anche sviluppato con strumenti Open Source: da Micropython a Flutter, da KiCad ad Arduino, tutti questi strumenti sono completamente Open e supportati dalla community FOSS e OSHW.
@@ -28,7 +36,6 @@ Il robot, oltre ad essere completamente Open Source, è anche sviluppato con str
 [SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
 [SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
 [Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
-
 
 # Licenza
 ## Autori / Copyright
