@@ -31,11 +31,11 @@ Non avendo a disposizione uno strumento di calibrazione professionale, per otten
 Il robot, oltre ad essere completamente Open Source, è anche sviluppato con strumenti Open Source: da Micropython a Flutter, da KiCad ad Arduino, tutti questi strumenti sono completamente Open e supportati dalla community FOSS e OSHW.
 
 # Singoli componenti
-[Motor Controller](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Motor%20Controller)
-[Robot](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Robot)
-[SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
-[SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
-[Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
+- [Motor Controller](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Motor%20Controller)
+- [Robot](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Robot)
+- [SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
+- [SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
+- [Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
 
 # Licenza
 ## Autori / Copyright
