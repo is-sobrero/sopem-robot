@@ -1,0 +1,22 @@
+{
+	"wifi": {
+		"ssid":"wifi-ssid",
+		"password":"wifi-pass"
+	},
+	"mqtt":{
+		"broker":"test.mosquitto.org",
+		"use_auth":false,
+		"username":"uname",
+		"password":"password",
+		"topics":{
+			"config":"sopem/config",
+			"pm10":"sopem/pm10",
+			"sequence":"sopem/sequence"
+		}
+	},
+	"sensor": {
+		"reference_voltage":1.75,
+		"linear_m":-0.28,
+		"linear_q":19.45
+	}
+}

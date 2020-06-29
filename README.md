@@ -24,9 +24,11 @@ Il robot, oltre ad essere completamente Open Source, è anche sviluppato con str
 
 # Singoli componenti
 [Motor Controller](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Motor%20Controller)
+[Robot](https://github.com/is-sobrero/sopem-robot/tree/master/Software/Robot)
 [SoPEM Companion](https://github.com/is-sobrero/sopem-robot/tree/master/Software/sopem_companion)
 [SoPEM Fitter](https://github.com/is-sobrero/sopem-robot/tree/master/Machine%20Learning)
 [Sensore PM10](https://github.com/is-sobrero/sopem-robot/tree/master/Hardware/dust_sensor)
+
 
 # Licenza
 ## Autori / Copyright
